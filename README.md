@@ -7,3 +7,5 @@
 
 [Bill of materials](BOM_HotPlate.xlsx)
 
+[Assembly instructions](Hot_plate_assembly.pdf)
+
