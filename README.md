@@ -9,3 +9,4 @@
 
 [Assembly instructions](Hot_plate_assembly.pdf)
 
+[![Watch the demo](https://img.youtube.com/vi/vEjn9NTKrsI/maxresdefault.jpg)](https://youtu.be/vEjn9NTKrsI)
